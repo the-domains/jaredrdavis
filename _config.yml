@@ -1,0 +1,16 @@
+typography_spectrum: 0.4897559841629118
+color:
+  brandStrength: 0.16366233979351819
+  lightness: 0.7534799759741873
+  saturation: 0.271462460514158
+  rhythmicContrast: 0.5203492923174053
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+github: true
+layout_spectrum: 0.15116110886447132
+name: jaredrdavis
+content: []
